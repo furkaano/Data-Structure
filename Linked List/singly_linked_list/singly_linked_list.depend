@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1573309027 source:c:\users\tunca software\desktop\data structures\linked list\singly_linked_list\main.c
+	<stdio.h>
+	"singly_linked_list.h"
+
+1573240351 c:\users\tunca software\desktop\data structures\linked list\singly_linked_list\singly_linked_list.h
+	<stdio.h>
+	<stdlib.h>
+
+1573309286 source:c:\users\tunca software\desktop\data structures\linked list\singly_linked_list\singly_linked_list.c
+	"singly_linked_list.h"
+

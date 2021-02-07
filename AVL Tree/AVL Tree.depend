@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1582984836 source:c:\users\tunca software\desktop\data structures\avl tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"General.h"
+	"AVL.h"
+
+1582984820 c:\users\tunca software\desktop\data structures\avl tree\general.h
+	<stdio.h>
+	<stdlib.h>
+
+1582984571 c:\users\tunca software\desktop\data structures\avl tree\avl.h
+	"General.h"
+
+1582984718 source:c:\users\tunca software\desktop\data structures\avl tree\avl.c
+	"AVL.h"
+	"General.h"
+	"math.h"
+
+1582984754 source:c:\users\tunca software\desktop\data structures\avl tree\general.c
+	"General.h"
+

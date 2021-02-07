@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1577720482 source:c:\users\tunca software\desktop\data structures\stack(linked list)\general.c
+	"General.h"
+
+1577720482 c:\users\tunca software\desktop\data structures\stack(linked list)\general.h
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1577798458 source:c:\users\tunca software\desktop\data structures\stack(linked list)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"General.h"
+	"Stack.h"
+
+1577798379 source:c:\users\tunca software\desktop\data structures\stack(linked list)\stack.c
+	"Stack.h"
+	"General.h"
+
+1577799570 c:\users\tunca software\desktop\data structures\stack(linked list)\stack.h
+	"General.h"
+

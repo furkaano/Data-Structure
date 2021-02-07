@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1576674278 source:c:\users\tunca software\desktop\data structures\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1576675472 source:c:\users\tunca software\desktop\data structures\queue\queue.c
+	"queue.h"
+
+1575371095 source:c:\users\tunca software\desktop\data structures\queue\general.c
+	"general.h"
+
+1575371094 c:\users\tunca software\desktop\data structures\queue\general.h
+	<stdio.h>
+	<stdlib.h>
+
+1575370836 c:\users\tunca software\desktop\data structures\queue\queue.h
+	"general.h"
+
+1575371095 source:c:\users\tunca software\desktop\data structures\queue (array)\general.c
+	"general.h"
+
+1575371094 c:\users\tunca software\desktop\data structures\queue (array)\general.h
+	<stdio.h>
+	<stdlib.h>
+
+1578240183 source:c:\users\tunca software\desktop\data structures\queue (array)\queue.c
+	"queue.h"
+
+1575370836 c:\users\tunca software\desktop\data structures\queue (array)\queue.h
+	"general.h"
+
+1578239457 source:c:\users\tunca software\desktop\data structures\queue (array)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+

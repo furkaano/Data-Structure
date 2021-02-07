@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1577709021 source:c:\users\tunca software\desktop\data structures\stack\general.c
+	"General.h"
+
+1577709863 c:\users\tunca software\desktop\data structures\stack\general.h
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1577710346 source:c:\users\tunca software\desktop\data structures\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"General.h"
+	"Stack.h"
+
+1577710210 source:c:\users\tunca software\desktop\data structures\stack\stack.c
+	"General.h"
+	"Stack.h"
+
+1577709863 c:\users\tunca software\desktop\data structures\stack\stack.h
+
+1577709021 source:c:\users\tunca software\desktop\data structures\stack(array)\general.c
+	"General.h"
+
+1577709863 c:\users\tunca software\desktop\data structures\stack(array)\general.h
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1577805861 source:c:\users\tunca software\desktop\data structures\stack(array)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"General.h"
+	"Stack.h"
+
+1577709863 c:\users\tunca software\desktop\data structures\stack(array)\stack.h
+
+1577710365 source:c:\users\tunca software\desktop\data structures\stack(array)\stack.c
+	"General.h"
+	"Stack.h"
+

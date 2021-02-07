@@ -1,0 +1,50 @@
+"C:\Program Files\JetBrains\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\burak\OneDrive\Masaüstü\pc\Courses\Data Structures\BınarySearchTree"
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- The C compiler identification is GNU 8.1.0
+-- The CXX compiler identification is GNU 8.1.0
+-- Check for working C compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe
+-- Check for working C compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe -- broken
+CMake Error at C:/Program Files/JetBrains/CLion 2020.1.2/bin/cmake/win/share/cmake-3.16/Modules/CMakeTestCCompiler.cmake:60 (message):
+  The C compiler
+
+    "C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: C:/Users/burak/OneDrive/MasaÃ¼stÃ¼/pc/Courses/Data Structures/BÄ±narySearchTree/cmake-build-debug/CMakeFiles/CMakeTmp
+    
+    Run Build Command(s):C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe cmTC_47939/fast && C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_47939.dir\build.make CMakeFiles/cmTC_47939.dir/build
+    mingw32-make.exe[1]: Entering directory 'C:/Users/burak/OneDrive/MasaÂ³stÂ³/pc/Courses/Data Structures/BÂ²narySearchTree/cmake-build-debug/CMakeFiles/CMakeTmp'
+    Building C object CMakeFiles/cmTC_47939.dir/testCCompiler.c.obj
+    C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe    -o CMakeFiles\cmTC_47939.dir\testCCompiler.c.obj   -c "C:\Users\burak\OneDrive\Masaâ”œâ•�stâ”œâ•�\pc\Courses\Data Structures\Bâ”€â–’narySearchTree\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+    gcc.exe: error: C:\Users\burak\OneDrive\Masaâ”œâ•�stâ”œâ•�\pc\Courses\Data Structures\Bâ”€â–’narySearchTree\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+    gcc.exe: fatal error: no input files
+    compilation terminated.
+    mingw32-make.exe[1]: *** [CMakeFiles\cmTC_47939.dir\build.make:65: CMakeFiles/cmTC_47939.dir/testCCompiler.c.obj] Error 1
+    mingw32-make.exe[1]: Leaving directory 'C:/Users/burak/OneDrive/MasaÂ³stÂ³/pc/Courses/Data Structures/BÂ²narySearchTree/cmake-build-debug/CMakeFiles/CMakeTmp'
+    mingw32-make.exe: *** [Makefile:120: cmTC_47939/fast] Error 2
+    
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/burak/OneDrive/MasaÃ¼stÃ¼/pc/Courses/Data Structures/BÄ±narySearchTree/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "C:/Users/burak/OneDrive/MasaÃ¼stÃ¼/pc/Courses/Data Structures/BÄ±narySearchTree/cmake-build-debug/CMakeFiles/CMakeError.log".

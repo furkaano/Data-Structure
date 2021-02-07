@@ -1,0 +1,32 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/burak/OneDrive/Masaüstü/pc/Courses/Data Structures/BınarySearchTree/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe cmTC_1eb35/fast && C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_1eb35.dir\build.make CMakeFiles/cmTC_1eb35.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/burak/OneDrive/Masa³st³/pc/Courses/Data Structures/B²narySearchTree/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1eb35.dir/testCCompiler.c.obj
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe    -o CMakeFiles\cmTC_1eb35.dir\testCCompiler.c.obj   -c "C:\Users\burak\OneDrive\Masa├╝st├╝\pc\Courses\Data Structures\B─▒narySearchTree\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+gcc.exe: error: C:\Users\burak\OneDrive\Masa├╝st├╝\pc\Courses\Data Structures\B─▒narySearchTree\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_1eb35.dir\build.make:65: CMakeFiles/cmTC_1eb35.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/burak/OneDrive/Masa³st³/pc/Courses/Data Structures/B²narySearchTree/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:120: cmTC_1eb35/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/burak/OneDrive/Masaüstü/pc/Courses/Data Structures/BınarySearchTree/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe cmTC_47939/fast && C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_47939.dir\build.make CMakeFiles/cmTC_47939.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/burak/OneDrive/Masa³st³/pc/Courses/Data Structures/B²narySearchTree/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_47939.dir/testCCompiler.c.obj
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe    -o CMakeFiles\cmTC_47939.dir\testCCompiler.c.obj   -c "C:\Users\burak\OneDrive\Masa├╝st├╝\pc\Courses\Data Structures\B─▒narySearchTree\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+gcc.exe: error: C:\Users\burak\OneDrive\Masa├╝st├╝\pc\Courses\Data Structures\B─▒narySearchTree\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_47939.dir\build.make:65: CMakeFiles/cmTC_47939.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/burak/OneDrive/Masa³st³/pc/Courses/Data Structures/B²narySearchTree/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:120: cmTC_47939/fast] Error 2
+
+
+

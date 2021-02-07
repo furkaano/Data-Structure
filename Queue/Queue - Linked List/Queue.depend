@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1576678623 source:c:\users\tunca software\desktop\data structures\queue (linked list)\general.c
+	"general.h"
+
+1576678623 c:\users\tunca software\desktop\data structures\queue (linked list)\general.h
+	<stdio.h>
+	<stdlib.h>
+
+1578405732 source:c:\users\tunca software\desktop\data structures\queue (linked list)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"General.h"
+	"Queue.h"
+
+1578411419 source:c:\users\tunca software\desktop\data structures\queue (linked list)\queue.c
+	"General.h"
+	"Queue.h"
+
+1578405332 c:\users\tunca software\desktop\data structures\queue (linked list)\queue.h
+

@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1575371095 source:c:\users\tunca software\desktop\data structures\sorting\sorting\general.c
+	"general.h"
+
+1575615505 c:\users\tunca software\desktop\data structures\sorting\sorting\general.h
+	<stdio.h>
+	<stdlib.h>
+
+1576221597 source:c:\users\tunca software\desktop\data structures\sorting\sorting\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"general.h"
+	"RandomDataGeneration.h"
+	"Sort.h"
+
+1575616251 c:\users\tunca software\desktop\data structures\sorting\sorting\randomdatageneration.h
+	<stdio.h>
+	<stdlib.h>
+	"General.h"
+
+1576220131 c:\users\tunca software\desktop\data structures\sorting\sorting\sort.h
+	"general.h"
+
+1576222196 source:c:\users\tunca software\desktop\data structures\sorting\sorting\sort.c
+	"Sort.h"
+
+1575616280 source:c:\users\tunca software\desktop\data structures\sorting\sorting\randomdatageneration.c
+	"RandomDataGeneration.h"
+

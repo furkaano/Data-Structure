@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1576823483 source:c:\users\tunca software\desktop\data structures\býnarysearchtree\general.c
+	"General.h"
+
+1576823483 c:\users\tunca software\desktop\data structures\býnarysearchtree\general.h
+	<stdio.h>
+	<stdlib.h>
+
+1578336967 source:c:\users\tunca software\desktop\data structures\býnarysearchtree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BST.h"
+	"General.h"
+
+1578331058 c:\users\tunca software\desktop\data structures\býnarysearchtree\bst.h
+	"General.h"
+
+1578336759 source:c:\users\tunca software\desktop\data structures\býnarysearchtree\bst.c
+	"stdio.h"
+	"stdlib.h"
+	"BST.h"
+	"General.h"
+
