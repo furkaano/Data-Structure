@@ -1,0 +1,3 @@
+C:/Users/Tunca Software/CLionProjects/Dijkstra'sPath/cmake-build-debug/CMakeFiles/Dijkstra_sPath.dir
+C:/Users/Tunca Software/CLionProjects/Dijkstra'sPath/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tunca Software/CLionProjects/Dijkstra'sPath/cmake-build-debug/CMakeFiles/rebuild_cache.dir

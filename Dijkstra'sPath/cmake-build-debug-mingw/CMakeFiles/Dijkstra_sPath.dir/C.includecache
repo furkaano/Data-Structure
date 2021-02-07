@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Tunca Software/CLionProjects/Dijkstra'sPath/Dijkstra.h
+General.h
+C:/Users/Tunca Software/CLionProjects/Dijkstra'sPath/General.h
+
+C:/Users/Tunca Software/CLionProjects/Dijkstra'sPath/General.h
+stdio.h
+-
+stdlib.h
+-
+limits.h
+-
+
+C:/Users/Tunca Software/CLionProjects/Dijkstra'sPath/main.c
+General.h
+C:/Users/Tunca Software/CLionProjects/Dijkstra'sPath/General.h
+Dijkstra.h
+C:/Users/Tunca Software/CLionProjects/Dijkstra'sPath/Dijkstra.h
+
